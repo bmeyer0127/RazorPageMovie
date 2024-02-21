@@ -6,11 +6,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-if (BuildErrorEventArgs.Environment.IsDevelopment())
+if (builder.Environment.IsDevelopment())
 {
     builder.Services.AddDbContext<RazorPagesMovieContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("RazorPagesMovieContext")));
-
+}
+else 
+{ 
+    builder.Services
+}
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
