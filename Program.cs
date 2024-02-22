@@ -6,6 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+// SQLite if in development. SQL Server if not
 if (builder.Environment.IsDevelopment())
 {
     builder.Services.AddDbContext<RazorPagesMovieContext>(options =>
@@ -13,7 +15,8 @@ if (builder.Environment.IsDevelopment())
 }
 else 
 { 
-    builder.Services
+    builder.Services.AddDbContext<RazorPagesMovieContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionMovieContext")));
 }
 var app = builder.Build();
 
