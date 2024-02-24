@@ -8194,19 +8194,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bmeye\\.nuget\\packages\\": {}
+    "C:\\Users\\Brett Meyer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\RazorPageMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
       "projectName": "RazorPageMovie",
-      "projectPath": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\RazorPageMovie.csproj",
-      "packagesPath": "C:\\Users\\bmeye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\",
+      "projectPath": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
+      "packagesPath": "C:\\Users\\Brett Meyer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bmeye\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Brett Meyer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8274,7 +8274,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
