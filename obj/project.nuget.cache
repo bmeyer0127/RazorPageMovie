@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMAXL4yPXgMsnp3Ib2GVscHt48tzB8ywC+/S44wkE9dMjqNblxYo1ux592evU7rweiCcc+dIF3KVLgZLijxvrQ==",
+  "dgSpecHash": "j+O1CfQYf9ubeKXeY/8T+FykqNbGwwIpmYusTA/0sUqr8K+6alZtEXZJLXwSMFE9wQdvC5AtdNJ3wJ81IdnLww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
+  "projectFilePath": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brett Meyer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Brett Meyer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
