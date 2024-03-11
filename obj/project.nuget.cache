@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "wtmW7RUYJu+v68BgyOJHwrNTNYmTjcpi9g33A3A6WLNn32nvVGUJpgdg4p9UuU+Mm2wdFOQog/XPQp+Jt3nXmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\RazorPageMovie.csproj",
-=======
-  "dgSpecHash": "j+O1CfQYf9ubeKXeY/8T+FykqNbGwwIpmYusTA/0sUqr8K+6alZtEXZJLXwSMFE9wQdvC5AtdNJ3wJ81IdnLww==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
->>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
   "expectedPackageFiles": [
     "C:\\Users\\bmeye\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\bmeye\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -177,5 +171,12 @@
     "C:\\Users\\bmeye\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\bmeye\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
