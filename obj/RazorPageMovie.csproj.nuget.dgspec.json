@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\RazorPageMovie.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\RazorPageMovie.csproj",
         "packagesPath": "C:\\Users\\bmeye\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\",
+=======
+    "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
+        "projectName": "RazorPageMovie",
+        "projectPath": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\RazorPageMovie.csproj",
+        "packagesPath": "C:\\Users\\Brett Meyer\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bmeye\\AppData\\Roaming\\NuGet\\NuGet.Config"
