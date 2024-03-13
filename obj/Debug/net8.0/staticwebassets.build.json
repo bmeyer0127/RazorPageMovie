@@ -1,6 +1,18 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "qyA0OTPBKHUqW1HIcO3jw2DJe4Ip4bNAaSpAViQBXcI=",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "Hash": "qyA0OTPBKHUqW1HIcO3jw2DJe4Ip4bNAaSpAViQBXcI=",
+=======
+  "Hash": "VJxcC2xxUuc0Zz8lHr6qSGrRhkDfnDMN5PsVHbCsGek=",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+  "Hash": "SfkUlQqMY1c1O9fGEoqKQVOagBCvNkeYsD/78AxIOiY=",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
   "Source": "RazorPageMovie",
   "BasePath": "_content/RazorPageMovie",
   "Mode": "Default",
@@ -10,17 +22,50 @@
     {
       "Name": "RazorPageMovie\\wwwroot",
       "Source": "RazorPageMovie",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "RazorPageMovie.styles.css",
       "AssetKind": "All",
@@ -33,6 +78,11 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "OriginalItemSpec": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css"
     },
     {
@@ -40,6 +90,25 @@
       "SourceId": "RazorPageMovie",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css"
+=======
+      "OriginalItemSpec": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RazorPageMovie.styles.css"
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+    },
+    {
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPageMovie.bundle.scp.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Computed",
+<<<<<<< HEAD
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "RazorPageMovie.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +121,11 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "OriginalItemSpec": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPageMovie.bundle.scp.css"
     },
     {
@@ -59,6 +133,25 @@
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+<<<<<<< HEAD
+=======
+=======
+      "OriginalItemSpec": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPageMovie.bundle.scp.css"
+=======
+      "OriginalItemSpec": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPageMovie.bundle.scp.css"
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+    },
+    {
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\css\\site.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+<<<<<<< HEAD
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +167,31 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\favicon.ico",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\favicon.ico",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\favicon.ico",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\favicon.ico",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +207,31 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\js\\site.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\js\\site.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\js\\site.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\js\\site.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +247,31 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -131,10 +287,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,10 +327,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -169,10 +367,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -188,10 +407,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -207,10 +447,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +487,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +527,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +567,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -283,10 +607,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -302,10 +647,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -321,10 +687,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +727,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -359,10 +767,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +807,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +847,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +887,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -435,10 +927,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -454,10 +967,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -473,10 +1007,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -492,10 +1047,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -511,10 +1087,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +1127,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +1167,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +1207,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -587,10 +1247,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -606,10 +1287,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -625,10 +1327,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -644,10 +1367,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -663,10 +1407,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +1447,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +1487,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +1527,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +1567,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +1607,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +1647,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +1687,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +1727,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +1767,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +1807,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +1847,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +1887,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +1927,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +1967,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +2007,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +2047,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -986,10 +2087,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1005,10 +2127,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1024,10 +2167,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1043,10 +2207,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1062,10 +2247,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1081,10 +2287,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1100,10 +2327,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1119,10 +2367,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1138,10 +2407,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1157,10 +2447,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1176,10 +2487,31 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "RazorPageMovie",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "Identity": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bmeye\\Documents\\C#_Projects\\RazorPageMovie\\wwwroot\\",
+=======
+      "Identity": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> ada545c2f4e3940eaaebd526aa75ff2e81c9fe22
+=======
+      "Identity": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "RazorPageMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brett Meyer\\Documents\\C#-Projects\\RazorPageMovie\\wwwroot\\",
+>>>>>>> parent of ada545c (Updated Models/Movies.cs to make displayed terms)
+>>>>>>> 0ee5a2e4e2755879f04a32ddd05acc7c36a990d1
       "BasePath": "_content/RazorPageMovie",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
